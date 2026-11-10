@@ -1,9 +1,9 @@
 {
   "id": "/Little-memories---family-album-/family-album/",
-  "name": "Familienalbum – Little Moments",
+  "name": "Familienalbum",
   "short_name": "Familienalbum",
-  "description": "Das private digitale Familienalbum",
-  "start_url": "/Little-memories---family-album-/family-album/",
+  "description": "Dein privates Familienalbum – unabhängig von Little Moments",
+  "start_url": "/Little-memories---family-album-/family-album/?app=family-album-v2",
   "scope": "/Little-memories---family-album-/family-album/",
   "display": "standalone",
   "display_override": [
@@ -15,20 +15,14 @@
   "lang": "de",
   "icons": [
     {
-      "src": "./icon.svg",
-      "sizes": "192x192",
+      "src": "./family-icon.svg",
+      "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "./icon.svg",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    },
-    {
-      "src": "./icon.svg",
-      "sizes": "512x512",
+      "src": "./family-icon.svg",
+      "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "maskable"
     }
