@@ -1,1 +1,15 @@
-{"name":"Little Moments – Family Album","short_name":"Little Moments","description":"Das private digitale Familienalbum","start_url":"./","scope":"./","display":"standalone","background_color":"#f6efe6","theme_color":"#f6efe6","lang":"de"}
+{
+  "id": "/Little-memories---family-album-/family-album/",
+  "name": "Little Moments – Family Album",
+  "short_name": "Family Album",
+  "description": "Das private digitale Familienalbum",
+  "start_url": "/Little-memories---family-album-/?app=family-album",
+  "scope": "/Little-memories---family-album-/",
+  "display": "standalone",
+  "background_color": "#f6efe6",
+  "theme_color": "#f6efe6",
+  "lang": "de",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
