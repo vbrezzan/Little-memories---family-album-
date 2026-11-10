@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "Little Moments – Family Album",
+  "short_name": "Family Album",
+  "description": "Das private digitale Familienalbum",
+  "start_url": "./?family_album=1",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6efe6",
+  "theme_color": "#f6efe6",
+  "lang": "de",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
