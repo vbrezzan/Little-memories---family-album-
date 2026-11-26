@@ -1,4 +1,4 @@
-const CACHE='little-moments-family-pwa-v53';
+const CACHE='little-moments-family-pwa-v54';
 const FILES=['./','./index.html','./manifest.webmanifest','./family-icon.svg'];
 self.addEventListener('install',event=>{
   event.waitUntil(
